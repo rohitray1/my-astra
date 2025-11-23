@@ -26,7 +26,7 @@
 	<?php astra_entry_top(); ?>
 
 	<?php astra_entry_content_single_page(); ?>
-
+<h1>Connect to my whatsapp number 9898989898 </h1>
 	<?php
 		astra_edit_post_link(
 			sprintf(
