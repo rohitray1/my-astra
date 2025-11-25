@@ -31,7 +31,7 @@
 
     <!-- Avatar -->
     <div style="flex:0 0 140px; text-align:center;">
-      <img alt="Rohit Ray Danuwar" src="image.jpg"
+      <img alt="Rohit Ray Danuwar" src="<?php echo get_template_directory_uri();?>/image.jpg"
            style="width:120px; height:120px; border-radius:50%; object-fit:cover; display:block; margin:0 auto 12px; border:4px solid #e6f0ff;" />
       <div style="font-size:13px; color:#657487;">Engineering Student</div>
     </div>
